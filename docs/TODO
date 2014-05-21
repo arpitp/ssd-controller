@@ -1,0 +1,15 @@
+
+Flash translation layer
+Limitation 1 : Erase-before-write
+Limitation 2 : Flash can be written in pages but can only be erased as a Block of pages
+Limitation 3 : Flash can be ”Read“ or ”Written” only for a certain number of times
+
+Multi-channel  NVMe
+Implementation of READ,WRITE and DELETE- partly done
+
+
+Parallelism in NVme
+There may be multiple commands outstanding to different LUNs at the same time. To get further parallelism within a LUN,
+multi-plane operations may be used to execute additional dependent operations in parallel
+
+Namespace extensions

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompiler" num="1654" delta="new" >"/scratch/senthu/My_proj/my_work/m.tech_projects/2014/keerthi/Keerthi/NVMExpress/mkTestbenchNvm.v" Line 5476: Instantiating &lt;<arg fmt="%s" index="1">nand_flash_controller0_buffer0_memory</arg>&gt; from unknown module &lt;<arg fmt="%s" index="2">BRAM2</arg>&gt;
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="new" >"/scratch/senthu/My_proj/my_work/m.tech_projects/2014/keerthi/Keerthi/NVMExpress/mkTestbenchNvm.v" Line 31: Empty module &lt;<arg fmt="%s" index="1">mkTestbenchNvm</arg>&gt; remains a black box.
+</msg>
+
+</messages>
+

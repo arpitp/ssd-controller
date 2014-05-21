@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/scratch/senthu/My_proj/my_work/m.tech_projects/2014/keerthi/Keerthi/xilinx/nvm/mkTestbenchNvm.xst" -ofn "/scratch/senthu/My_proj/my_work/m.tech_projects/2014/keerthi/Keerthi/xilinx/nvm/mkTestbenchNvm.syr" 

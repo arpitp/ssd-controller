@@ -1,0 +1,2 @@
+verilog work "../../NVMExpress/mkNvmController_imp.v"
+verilog work "../../NVMExpress/mkTestbenchNvm.v"
